@@ -19,7 +19,7 @@ With **4+ years of experience** in:
 - 🔧 Proficient in **PHP & JavaScript**
 - 🎯 I love writing clean, maintainable code
 - 📚 Always learning new technologies
-- 🌐 Working on Freelance platforms (Upwork, Fiverr, Freelancer, Mostaql, Khamsat, Nafezly)
+- 🌐 Working on Freelance platforms (Freelancer, Mostaql, Khamsat, Nafezly)
 
 ---
 
@@ -80,14 +80,6 @@ With **4+ years of experience** in:
 - 🤖 Automation Testing (Selenium, Jest, Mocha)
 - 📱 Cross-browser & Device Testing
 - 🔍 Root Cause Analysis
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmohyeldin&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohyeldin&layout=compact&theme=dark)
 
 ---
 
